@@ -1,6 +1,6 @@
 # Terraform勉強-第18回
 
-github: 
+github: "https://github.com/shu130/terraform-study18"
 
 ## テーマ
 
